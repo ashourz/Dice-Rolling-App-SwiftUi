@@ -2,7 +2,7 @@
 App developed as part of The App Brewery's Complete App Development Bootcamp.
 
 # Project Summary
-This project is a multi-dice rolling app.
+This project is a multi-dice rolling app. The dice are rolled at the press of a button or by shaking your phone. 
 
 # Key Concepts
 - Create links between the Interface Builder files and code using IBActions and IBOutlets.
