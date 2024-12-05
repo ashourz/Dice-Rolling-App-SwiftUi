@@ -1,4 +1,4 @@
-# Dice Rolling App
+# Dice Rolling App (SwiftUi)
 App developed as part of The App Brewery's Complete App Development Bootcamp.
 
 # Project Summary
